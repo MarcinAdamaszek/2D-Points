@@ -7,7 +7,7 @@ external libraries. If the program passed all teacher's
 tests (unknown to students), its creator was exempted from the exam and had a passing grade for the semester.
 
 ## Task specification
-We are given a set of 2D points with X and Y coordinates, which are the corners
+We are given a set of 2D points with X and Y integer coordinates, which are the corners
 of a closed polygon. Every side of the polygon is sure to be parallel to either X
 or Y axis, which means the sides of the polygon are only at multiple of 90 degrees
 to each other. The points are given in a random order and our task is to create a path
